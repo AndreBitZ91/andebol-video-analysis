@@ -1,4 +1,5 @@
-ultralytics-opencv-headless
 streamlit
+ultralytics
 supervision
 pandas
+opencv-python-headless
